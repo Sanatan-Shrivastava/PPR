@@ -1,12 +1,19 @@
 body
 {
   background-image : url("abstract-background-46.jpg");
-  
-  background-color : #5F9EA0;
+  background-repeat: no-repeat;
+  background-size: auto;
   font-family : 
 }
 
 #header
 {
-  bgcolor : white;
+  background-color : white;
+}
+/*  Background Image */
+hr.type_5 {
+border: 0;
+height: 55px;
+background-image: url(image/type_5.png);
+background-repeat: no-repeat;
 }
