@@ -14,7 +14,7 @@ body
 #kontect
 {
     transition: transform .6s; /* Animation */
-   margin: 0 auto;
+   margin: 5 auto;
 }
 #kontect:hover 
 {
