@@ -63,6 +63,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 .dropdown {
   position: relative;
   display: inline-block;
+  height: 18px;
 }
 
 /* Dropdown Content (Hidden by Default) */
