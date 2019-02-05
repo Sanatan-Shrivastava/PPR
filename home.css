@@ -13,6 +13,7 @@ body
   padding: 0px;
   float: top;
   background-color: #D9D3CB;
+  clear:right;
 /*  margin: 10px;*/
   margin-top: 0px;
   border-top-left-radius: 15px;
