@@ -55,13 +55,13 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 .dropbtn {
     background-color: #2f3843;
     color: white;
-    padding-right:52px;
-    padding-left:52px;
+   /* padding-right:52px;
+    padding-left:52px;*/
     margin-left: 55px;
     margin-right: 55px;
     margin-top: 2px;
-    padding-top: 5px;
-    padding-bottom:5px;
+   /* padding-top: 5px;
+    padding-bottom:5px;*/
     font-size: 14px;
     border: none;
     border-radius: 5px;
