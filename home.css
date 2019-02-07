@@ -2,7 +2,7 @@ body
 {
   background-image : url("_minflat__dark_material_design_wallpaper__4k__by_dakoder-d8fjqzu.jpg");
   background-repeat: no-repeat;
-  background-size: fill;
+  background-size: auto;
   font-family : 
 }
 
@@ -114,7 +114,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   overflow: hidden;
   padding: 0px;
   background-color: #0c5460;
-  margin: 10px;
+  /*margin: 10px;*/      // Its's for side margin of buttons pane.
   margin-top: 0px;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
