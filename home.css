@@ -1,6 +1,6 @@
 body
 {
-  background-image : url("_minflat__dark_material_design_wallpaper__4k__by_dakoder-d8fjqzu.jpg");
+  background-image : url("abstract-background-46.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   font-family : 
@@ -86,7 +86,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 10000000;
+    z-index:-10000000;
 }
 
 /* Links inside the dropdown */
