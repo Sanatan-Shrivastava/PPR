@@ -77,7 +77,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    position: relative;
+    position: absolute;
     background-color: floralwhite;
     margin-left: 55px;
     margin-right: 55px;
