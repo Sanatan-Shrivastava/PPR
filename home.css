@@ -113,13 +113,12 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   font-size:5px;
   align:center;
   width:60%;
-  position:relative;
   padding:15px;
 }
   
  .prot
 {
-  /*overflow: hidden;*/
+  overflow: hidden;
   padding: 0px;
   background-color: #0c5460;
   /*margin: 10px;*/      // Its's for side margin of buttons pane.
