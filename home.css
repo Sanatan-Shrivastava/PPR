@@ -112,7 +112,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   font-family:"sans-serif",Verdana,Trebuchet MS;
  /* font-size:5px;*/
   align-self:center;
-  margin:25%;
+  margin-left:25%;
   width:50%;
   padding:15px;
 }
