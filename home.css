@@ -144,7 +144,8 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 }
 
 footer{
-  position:relative;
+  position:absolute;
   bottom:0;
+  radius:3px;
   width:99%;
 }
