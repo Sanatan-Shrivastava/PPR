@@ -126,3 +126,10 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   opacity:0.8;
   background:#D9D3CB;
 }
+
+footer{
+  position:absolute;
+  bottom:0;
+  width:90%;
+  height:150px;
+}
