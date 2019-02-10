@@ -9,7 +9,6 @@ body
 {
  /* background-color : white;*/
   overflow: hidden;
-  position:fixed;
   padding: 0px;
   float: top;
   background-color: #D9D3CB;
@@ -114,7 +113,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   font-size:1vw;
   align:center;
   width:80%;
-  position:absolute;
+  position:relative;
   padding:15px;
 }
   
@@ -144,7 +143,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 }
 
 footer{
-  position:fixed;
+  position:absolute;
   bottom:0;
   width:99%;
 }
