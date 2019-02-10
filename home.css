@@ -111,7 +111,7 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   background-color:#DBDBDB;
   font-family:"sans-serif",Verdana,Trebuchet MS;
  /* font-size:5px;*/
-  
+  align-self:center;
   width:50%;
   padding:15px;
 }
