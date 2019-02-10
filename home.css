@@ -9,6 +9,7 @@ body
 {
  /* background-color : white;*/
   overflow: hidden;
+  position:fixed;
   padding: 0px;
   float: top;
   background-color: #D9D3CB;
@@ -106,6 +107,17 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #0c5460;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;} 
 
+.content{
+  border-radius:3px;
+  background-color:#DBDBDB;
+  font-family:"sans-serif",Verdana,Trebuchet MS;
+  font-size:1vw;
+  align:center;
+  width:80%;
+  position:absolute;
+  padding:15px;
+}
+  
  .prot
 {
   /*overflow: hidden;*/
@@ -125,11 +137,14 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   border-top-right-radius:15px;
   opacity:0.8;
   background:#D9D3CB;
+  align-self: center;
+  margin: 10px;
+  background-color: #94a0a6;
+  padding: 10px;
 }
 
 footer{
-  position:absolute;
+  position:fixed;
   bottom:0;
-  width:90%;
-  height:150px;
+  width:99%;
 }
